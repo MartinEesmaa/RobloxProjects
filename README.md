@@ -6,7 +6,7 @@ My two old roblox studio projects.
 
 You may need your PC, a Roblox account and an latest version of Roblox studio to see my Roblox projects.
 
-### My roblox project's links:
+### My Roblox project links:
 
 [PinMartin892's Place](https://www.roblox.com/games/245726991)
 
@@ -18,13 +18,15 @@ In Estonia, I started to make my Roblox projects after sign up Roblox account, w
 
 My first project was called about: PinMartin892's Place and I start to put something objects to my project.
 
-After making fun for my first project, I realised I was kinda bored and nothing to do with my first project. The first project was created 6th May 2015 and was last updated at 16th September 2015.
+After making fun for my first project, I realised I was kinda bored and nothing to do with my first project. The first project was created at 6th May 2015 and was last updated at 16th September 2015.
 
 3 years later... In 2018, I started the second project called "Brick break" and all I do is create more bricks. 
 
 After making bricks, I tested it out for car smashes to brick, but it was very hard to make one piece rigibody and car didn't smash well. 
 
 My projects were failed and I decided to quit for making Roblox projects anymore.
+
+The second project was created at 8th August 2018, but never updated.
 
 Now, I decided to release my roblox projects into my repository, so you can have look my projects.
 
